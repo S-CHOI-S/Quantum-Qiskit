@@ -1,5 +1,5 @@
-# Quantum-Qiskit-basic
-About IBM Quantum Qiskit, basic level
+# Quantum-Qiskit
+About IBM Quantum Qiskit
 
 >[!Tip]
 >[IBM Quantum Learning](https://learning.quantum.ibm.com/)
